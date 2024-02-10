@@ -29,3 +29,24 @@
   .social-links a:hover {
     color: #fff;
   }
+  /* navbar */
+  .navbar-nav a i,
+  .navbar-nav a:focus i {
+    font-size: 12px;
+    line-height: 0;
+    margin-left: 5px;
+  }
+  .navbar-nav a:hover,
+.navbar-nav .active,
+.navbar-nav .active:focus,
+.navbar-nav li:hover>a {
+  background: #cc1616;
+}
+.navbar-nav a,
+.navbar-nav a:focus{
+    padding: 25px 15px 24px 15px;
+  font-size: 18px;
+  color: #fff;
+  white-space: nowrap;
+  transition: 0.3s;
+}
