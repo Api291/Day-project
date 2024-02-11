@@ -296,3 +296,33 @@
   font-size: 18px;
   margin: 0 2px;
 }
+
+/* Contact SEction*/
+.info-box {
+  color: #444444;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 20px 0 30px 0;
+}
+.info-box i {
+  font-size: 32px;
+  color: #cc1616;
+  padding: 8px;
+ 
+}
+.info-box h3 {
+  font-size: 20px;
+  color: #777777;
+  font-weight: 700;
+  margin: 10px 0;
+}
+.info-box p {
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.php-email-form {
+  box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
+  padding: 30px;
+}
